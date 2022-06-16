@@ -3,5 +3,5 @@
 #print (nombre1)
 #print (nombre2)
 import Practica2
-nombre = nombre1 = nombre2 = "Marco"
+nombre = nombre1 = nombre2 = "Marcos"
 print (Practica2)
