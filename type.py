@@ -1,1 +1,1 @@
-print ("algi=unas right")
+print ("palomas blancas")
