@@ -2,6 +2,6 @@
 #print(nombre)
 #print(type(nombre))
 
-print("Cual es tu nombre kaka: ")
+print("Cual es tu nombre: ")
 nombre = input()
 print(nombre, type(nombre))
