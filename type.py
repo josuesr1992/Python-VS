@@ -1,1 +1,1 @@
-print ("Mejor asi")
+print ("algi=unas right")
